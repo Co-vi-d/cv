@@ -1,0 +1,163 @@
+<TABLE BORDER="5"    WIDTH="80%"   CELLPADDING="6" CELLSPACING="6">
+
+<style>
+TR.two {
+  border-style: solid;
+  border-color: green;
+} 
+</style>
+
+   <TR >
+   
+      <TH COLSPAN="3"><BR><H3 style="background-color:#E8F6EF; font-size: 40px;">CENTRAL HELP LINE NUMBER</H3>
+      </TH>
+   </TR>
+   <TR>
+ 
+   <th style="background-color:#FAFF00;">S.NO</TH>
+      <TH style="background-color:#FAFF00;">STATE</TH>
+      <TH style="background-color:#FAFF00;" >HELP LINE NUMBER</TH>
+	  
+   </TR>
+   <TR ALIGN="CENTER">
+   <TR>
+   
+      <TD style="background-color:#FF3D68;">1</TD>
+      <TD style="background-color:#FF3D68;">ANDHRA PRADESH</TD>
+      <TD style="background-color:#FF3D68;">0866-2410978</TD>
+	</TR>
+	<TR>
+	<TD style="background-color:#FF3D68;">2</TD>
+	  <TD style="background-color:#FF3D68;">ARUNACHAL PRADESH</TD>
+	  <TD style="background-color:#FF3D68;">9436055743</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">3</TD>
+	  <TD style="background-color:#FF3D68">ASSAM</TD>
+	  <TD style="background-color:#FF3D68;">6913347770</TD>
+	</TR>
+		<TR>
+		<TD style= "background-color:#FF3D68;">4</TD>
+	  <TD style="background-color:#FF3D68;">BIHAR</TD>
+	  <TD style="background-color:#FF3D68;">104</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">5</TD>
+	  <TD style="background-color:#FF3D68;">CHHATISGARH</TD>
+	  <TD style="background-color:#FF3D68;">104</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">6</TD>
+	  <TD style="background-color:#FF3D68;">GOA</TD>
+	  <TD style="background-color:#FF3D68;">104</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">7</TD>
+	  <TD style="background-color:#FF3D68;">GUJARAT</TD>
+	  <TD style="background-color:#FF3D68;">104</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">8</TD>
+	  <TD style="background-color:#FF3D68;">HARYANA</TD>
+	  <TD style="background-color:#FF3D68;">8558893911</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">9</TD>
+	  <TD style="background-color:#FF3D68;">HIMACHAL PRADESH</TD>
+	  <TD style="background-color:#FF3D68;">104</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">10</TD>
+	  <TD style="background-color:#FF3D68;">JHARKHAND</TD>
+	  <TD style="background-color:#FF3D68;">104</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">11</TD>
+	  <TD style="background-color:#FF3D68;">KARNATAKA</TD>
+	  <TD style="background-color:#FF3D68;">104</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">12</TD>
+	  <TD style="background-color:#FF3D68;">KERALA</TD>
+	  <TD style="background-color:#FF3D68;">0471-2552056</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">13</TD>
+	  <TD style="background-color:#FF3D68;">MADHYA PRADESH</TD>
+	  <TD style="background-color:#FF3D68;">104</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">14</TD>
+	  <TD style="background-color:#FF3D68;">MAHARASHTRA</TD>
+	  <TD style="background-color:#FF3D68;">020-26127394</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">15</TD>
+	  <TD style="background-color:#FF3D68;">MANIPUR</TD>
+	  <TD style="background-color:#FF3D68;">3852411668</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">16</TD>
+	  <TD style="background-color:#FF3D68;">MEGHALAYA</TD>
+	  <TD style="background-color:#FF3D68;">108</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">17</TD>
+	  <TD style="background-color:#FF3D68;">MIZORAM</TD>
+	  <TD style="background-color:#FF3D68;">102</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">18</TD>
+	  <TD style="background-color:#FF3D68;">NAGALAND</TD>
+	  <TD style="background-color:#FF3D68;">7005539653</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">19</TD>
+	  <TD style="background-color:#FF3D68;">ODISHA</TD>
+	  <TD style="background-color:#FF3D68;">9439994859</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">20</TD>
+	  <TD style="background-color:#FF3D68;">PUNJAB</TD>
+	  <TD style="background-color:#FF3D68;">104</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">21</TD>
+	  <TD style="background-color:#FF3D68;">RAJASTHAN</TD>
+	  <TD style="background-color:#FF3D68;">0141-2225624</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">22</TD>
+	  <TD style="background-color:#FF3D68;">SIKKIM</TD>
+	  <TD style="background-color:#FF3D68;">104</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">23</TD>
+	  <TD style="background-color:#FF3D68;">TAMIL NADU</TD>
+	  <TD style="background-color:#FF3D68;">044-29510500</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">24</TD>
+	  <TD style="background-color:#FF3D68;">TELANGANA</TD>
+	  <TD style="background-color:#FF3D68;">104</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">25</TD>
+	  <TD style="background-color:#FF3D68;">TRIPURA</TD>
+	  <TD style="background-color:#FF3D68;">0381-2315879</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">26</TD>
+	  <TD style="background-color:#FF3D68;">UTTARAKHAND</TD>
+	  <TD style="background-color:#FF3D68;">104</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">27</TD>
+	  <TD style="background-color:#FF3D68;">UTTAR PRADESH</TD>
+	  <TD style="background-color:#FF3D68;">18001805145</TD>
+	</TR>
+		<TR>
+		<TD style="background-color:#FF3D68;">28</TD>
+	  <TD style="background-color:#FF3D68;">WEST BENGAL</TD>
+	  <TD style="background-color:#FF3D68;">1800313444222,03323412600,</TD>
+	</TR>
